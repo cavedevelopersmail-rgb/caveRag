@@ -1,0 +1,9 @@
+lightrag-hku 
+openai 
+python-docx 
+numpy
+uvicorn 
+fastapi
+python-multipart
+dotenv
+
